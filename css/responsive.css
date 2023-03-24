@@ -1,0 +1,410 @@
+@media only screen and (max-width: 1300px){
+.head3_text , .loc_address{
+    padding-left: 50px;
+}
+.menu_list{
+    padding-left: 50px;
+}
+.mid_right{
+	border-right: 300px solid #000000;
+}
+.mid_left{
+	border-left: 300px solid #000000;
+}
+}
+@media only screen and (max-width: 1210px){
+.setting_icn , .head3_text > h1{
+    font-size: 1.5rem;
+}
+.left_pt{
+    border-bottom: 30px solid #15288ad3;
+}
+.location{
+    font-size: 1rem;
+}
+}
+@media only screen and (max-width: 1195px){
+    .footer_full_container{height: auto;padding: 20px 0px;}
+    .footer_container{flex-direction: column;}
+}
+@media only screen and (max-width: 1170px){
+    .menu_list{width: 75%;}
+    .appnt_btn{padding: 10px 20px;}
+    .menu_btn{width: 25%;}
+    .btn1,#fisrtslid{display: none;}
+    .footer_sec{flex: 2;}
+}
+@media only screen and (max-width: 1130px){
+    .loc_address{
+        width: 70%;
+    }
+    .menu_list{
+        padding-left: 80px;
+    }
+    .menu_list > ul li{
+        margin: 0px 10px;
+    }
+.top_header_cont2 > ul{
+    width: 30%;
+}
+.wow ,.wow2{
+    font-size: 14px;
+}
+}
+@media only screen and (max-width: 1100px){
+    .head3_text > h3{
+    padding: 0px 20px;
+}
+.box_shadow{padding: 30px;}
+}
+@media only screen and (max-width: 1090px){
+    .shedule_text>h1{font-size: 1.5rem;}
+    .shedule_text>h2{font-size: 1.1rem;}
+    .auto_hail_repair>p{padding: 0px 200px;}
+}
+@media only screen and (max-width: 1068px){
+    .menu_list > ul li{
+        margin: 0px 5px;
+    }
+    .box_shadow{flex-direction: column;}
+    .car_guarantee{margin: 10px 0px;}
+    .appnt_btn {padding: 5px 10px;}
+    /* .bg_shape{border-bottom: 40px solid #FEE42D;} */
+}
+@media only screen and (max-width: 1038px){
+    .car_guarantee{width: 100%;justify-content: center;}
+    .schedule_btn{width: 30%;}
+}
+@media only screen and (max-width: 1030px){
+    .loc_address ,.top_header_cont2 > ul , .bg_shape ,.menu_list > ul{font-size: 0.9rem;}
+    .ftr_scl_logo{margin-bottom: 60px;}
+}
+@media only screen and (max-width: 990px){
+    .setting_icn ,.head3_text > h1{font-size: 1.4rem;}
+    .head3_text > h3{font-size: 1rem;}
+    .auto_hail_repair>p{padding: 0px 150px;}
+    .mid_right{
+        border-right: 250px solid #000000;
+    }
+    .mid_left{
+        border-left: 250px solid #000000;
+    }
+}
+@media only screen and (max-width: 970px){
+    .name{display: none;}
+    .jst_logo{display: block;}
+    .head3_text{
+        flex-direction: column;
+        width: 60%;
+    }
+    .head3_btn{width: 40%;}
+    .left_pt{border-bottom: 40px solid #15288ad3; width: 25px;}
+    .burger_menu{
+        display: block;
+        position: absolute;
+        right: 10%;
+        top: 35%;
+    }
+    .burger{
+        font-size: 1.5rem;
+    }
+    .menu_list{width: 100%;justify-content: center;}
+    .menu_btn{width: 67%;}
+    .top_header_cont{
+        flex-direction: column;
+        display: none;
+    }
+    .menu_list{
+        padding: 0px;
+        text-align: center;
+    }
+    .menu_list > ul{
+        flex-direction: column;
+        width: 100%;
+        padding: 0px;
+        z-index: 999;
+    }
+    .menu_list > ul li{
+        margin: 5px 0px;
+        width: 100%;
+        padding: 5px 0px;
+    }
+    .menu_list > ul li:hover{
+        background-color: #15288a6e;
+        border-bottom: 1px solid rgba(255, 238, 0, 0.466);
+    }
+    .hed2_3{z-index: -1;}
+    #logo_img{z-index: 10;}
+    #mobile_view{
+        position: absolute;
+        top: 0%;
+        left: -15%;
+        width: 60%;
+        height: auto;
+        transition: 0.3s;
+        background-color: #ffffff;
+        z-index: 11111;
+    }
+.review_box{align-items: center;justify-content: center;}
+.first_review{width: 80%;}
+.last_review{display: none;}
+
+}
+@media only screen and (max-width: 881px){
+    .schedule_btn{width: 40%;}
+}
+@media only screen and (max-width: 850px){
+    .menu_btn{width: 70%;}
+}
+@media only screen and (max-width: 825px){
+    .auto_hail_repair>h1{font-size: 2rem;}
+}
+@media only screen and (max-width: 816px){
+    .mid_left{border-left: 200px solid #000000;}
+    .mid_right{border-right: 200px solid #000000;}
+    .btn2,#thirdslide{display: none;}
+    .tw_tgr{flex-direction: column;}
+    .footer_sec{
+        margin: 20px 0px;
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 738px){
+    .mid_left{border-left: 150px solid #000000;}
+    .mid_right{border-right: 150px solid #000000;}
+    .mid_left,.mid_right{box-shadow: 0px 95px 40px #000000;}
+    .b3img_box{
+        margin-left: 100px;
+    }
+}
+
+@media only screen and (max-width: 730px){
+    .menu_btn{width: 75%;}
+    .f_left{width: 300px;}
+}
+@media only screen and (max-width: 580px){
+    .menu_btn{width: 80%;}
+    #mobile_view{width: 60%;}
+}
+@media only screen and (max-width: 480px){
+    .menu_btn{width: 90%;}
+}
+@media only screen and (max-width: 420px){
+    .menu_btn{width: 100%;}
+    .appnt_btn{width: 100%;}
+}
+@media only screen and (max-width: 765px){
+    #mobile_view{
+        top: 0%;
+        left: -15%;
+    }
+    .auto_hail_repair>p{padding: 0px 100px;}
+}
+@media only screen and (max-width: 686px){
+    .schedule_btn {width: 50%;}
+}
+@media only screen and (max-width: 666px){
+    .setting_icn ,.head3_text > h1,.full_text > h1{
+        font-size: 1.2rem;
+    }
+    .head3_text > h3 , .full_text > h3{
+        font-size: 0.8rem;
+    }
+    .full_text{height: 60px;}
+    .left_pt{
+        border-bottom: 35px solid #15288ad3;
+    }
+    .mid_left{border-left: 130px solid #000000;}
+    .mid_right{border-right: 130px solid #000000;}
+}
+@media only screen and (max-width: 655px){
+    .mid_left,.mid_right{box-shadow: 0px 95px 40px #000000;}
+    .shedule_text>h1{font-size: 1.2rem;}
+    .shedule_text>h2{font-size: 0.8rem;}
+    .container , .container2{
+        width: 100%;
+        left: 0;
+        padding: 0px 10px;
+        margin: 0; padding: 0;
+    }
+    .first_review{width: 100%;margin: 0px 20px;}
+    .car_waived_up{padding: 0px 10px;}
+    .bg_shape2{width: 75%;}
+    .b3img_box{
+        margin-left: 80px;
+    }
+}
+@media only screen and (max-width: 610px){
+    .loc_address{font-size: 10px;}
+    .head3_text > h1{font-size: 16px;}
+    .head3_text > h3{font-size: 10px;}
+    .schedule_btn{width: 80%;}
+    .ftr_scl_logo{margin-bottom: 100px;}
+    #logo_img_ftr{width: 100px;top: -60px;}
+}
+@media only screen and (max-width: 550px){
+    .top_header_cont2{
+        flex-direction: column;
+    }
+    .auto_hail_repair>p{padding: 0px;}
+    .setting_icn , .location{font-size: 10px;}
+    .loc_address,.top_header_cont2 > ul{width: 100%;}
+    .top_header_cont2 > ul{justify-content: space-evenly;padding-left: 50px;}
+    .hed2_1{height: auto;}
+    .left_pt{border-bottom: 30px solid #15288ad3;}
+}
+@media only screen and (max-width: 525px){
+    .burger_menu{
+        top: 25%;
+    }
+    .header1{height: 100px;}
+    .header2{height: auto;}
+    .hed2_1 , .hed2_3, .hed2_3{display: none;}
+    #logo_img{width: 100px;}
+}
+@media only screen and (max-width: 510px){
+    .container_content > p{
+        font-size: 1.5rem;
+    }
+    .footer_container_last{width: 100%;justify-content: center;}
+    .car_guarantee{flex-direction: column;text-align: center;align-items: center;}
+    .mid_left,.mid_right{display: none;}
+    .box_shadow{padding: 10px;}
+    .img_koma > img{width: 100px;}
+}
+@media only screen and (max-width: 460px){
+    .right ,.container_content > ul{
+        font-size: 1rem;
+    }
+    .f_left{width: 250px;}
+    .rey_perez{font-size: 22px;}
+    .text_part,.image_part{width: 50%;}
+    .wow,.tre_work{font-size: 12px;}
+}
+@media only screen and (max-width: 400px){
+    .container_content > ul{
+        margin-left: 60px;
+    }
+}
+@media only screen and (max-width: 1050px){
+    .shape_yellow{
+        width: 180px;
+    }
+}
+@media only screen and (max-width: 1250px){
+    .ylo_shape{
+        width: 500px;
+    }
+    .all_img_box{width: 200px;}
+}
+@media only screen and (max-width: 1050px){
+    .ylo_shape{
+        width: 400px;
+    }
+}
+@media only screen and (max-width: 910px){
+    .about_img > p{font-size: 1.1rem;}
+    .all_img_box{
+        width: 150px;
+        height: 250px;
+    }
+}
+@media only screen and (max-width: 620px){
+    .about_img > p{font-size: 10px;margin-left: -20px;
+    }
+    .all_img_box{
+        width: 100px;
+        height: 200px;
+    }
+    .inside_text > p{
+        font-size: 10px;
+    }
+}
+@media only screen and (max-width: 430px){
+    .about_img{margin-left: -20px;}
+}
+@media only screen and (max-width: 1306px){
+    .vdo_prt_contn > h1{
+        line-height: 40px;
+    }
+}
+@media only screen and (max-width: 1254px){
+    .vdo_prt_contn > h1{
+        font-size: 1.5rem;
+        line-height: 30px;
+    }
+}
+@media only screen and (max-width: 1111px){
+    .text_pt > p{
+        line-height: 15px;
+    }
+    #img1{
+        height: 250px;
+    }
+}
+@media only screen and (max-width: 1100px){
+    .icon_text > h1{
+        font-size: 1rem;
+    }
+}
+@media only screen and (max-width: 1068px){
+    .bg_shape2{
+        width: 170px;
+    }
+    .waived_car > img{height: 450px;}
+}
+@media only screen and (max-width: 1020px){
+    .waived_up{width: 40%;}
+    .waived_car{width: 60%;
+        text-align: center;}
+}
+@media only screen and (max-width: 950px){
+    .waived_car >img{height: 400px;}
+    .on_the_car > h1{font-size: 1.5rem;}
+}
+@media only screen and (max-width: 905px){
+    .vdo_prt_contn > h1{font-size: 1.1rem;line-height: 20px;}
+    .vdo_prt_contn > p{font-size: 10px;}
+    #img1{height: 200px;}
+    #img2{width: 120px;height: 120px;}
+    .img_part{padding: 0px 20px;}
+    .vdo_prt_contn{padding-top: 40px;
+        padding-left: 15px;}
+    .text_pt > p{padding: 0px 10px;}
+    .icon_text{padding: 0;}
+}
+@media only screen and (max-width: 825px){
+    .icon_text > h1{
+        font-size: 12px;
+    }
+    .text_pt > p{font-size: 10px;}
+    .waived_up > ul{color: #000;}
+    .waived_car > img{height: 300px;}
+    .waived_up{margin-top: -100px;}
+}
+@media only screen and (max-width: 705px){
+    .appnt_btn{font-size: 14px;}
+    .bg_shape2{width: 90%;}
+    .on_the_car>h1{font-size: 1.2rem;}
+}
+@media only screen and (max-width: 565px){
+    .icon_text > h1{font-size: 10px;}
+    .on_the_car{width: 250px;}
+    .on_the_car>p{font-size: 10px;}
+    .waived_car{width: 50%;}
+    .waived_up > ul li{padding: 5px 0px;font-size: 13px;}
+}
+@media only screen and (max-width: 515px){
+    #img1{height: 120px;}
+    #img2{width: 80px; height: 80px;}
+    .vdo_prt_contn>h1{font-size: 12px;}
+    .img_part{padding: 0px 10px;}
+    .vdo_prt_contn{padding-top: 80px;
+        padding-left: 0px;}
+}
+@media only screen and (max-width: 445px){
+    .text_pt>p{line-height: 10px;}
+}
+/* @media only screen and (max-width: 445px){
+    .text_pt>p{line-height: 10px;}
+} */
